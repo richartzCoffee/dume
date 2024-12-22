@@ -1,6 +1,10 @@
 # Ignore build directory
 /build/
 
+
+# Ignore Make file
+./Makefile
+
 # Prerequisites
 *.d
 
